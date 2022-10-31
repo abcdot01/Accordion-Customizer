@@ -1,0 +1,30 @@
+AccordionContent.propTypes = {
+    title: PropTypes.string.isRequired,
+    bgColor: PropTypes.string.isRequired,
+    GradientCheck: PropTypes.boolean.isRequired,
+    gradiendSecondaryColor: PropTypes.string.isRequired,
+    gradDeg: PropTypes.number.isRequired,
+    margin: PropTypes.number.isRequired,
+    marginTop: PropTypes.number.isRequired,
+    marginLeft: PropTypes.number.isRequired,
+    marginRight: PropTypes.number.isRequired,
+    marginBottom: PropTypes.number.isRequired,
+    padding: PropTypes.number.isRequired,
+    paddingTop: PropTypes.number.isRequired,
+    paddingLeft: PropTypes.number.isRequired,
+    paddingRight: PropTypes.number.isRequired,
+    paddingBottom: PropTypes.number.isRequired,
+    borderWidth: PropTypes.number.isRequired,
+    borderTop: PropTypes.number.isRequired,
+    borderLeft: PropTypes.number.isRequired,
+    borderRight: PropTypes.number.isRequired,
+    borderBottom: PropTypes.number.isRequired,
+    borderRadius: PropTypes.number.isRequired,
+    borderTLRadius: PropTypes.number.isRequired,
+    borderTRRadius: PropTypes.number.isRequired,
+    borderBLRadius: PropTypes.number.isRequired,
+    borderBRRadius: PropTypes.number.isRequired,
+
+
+    // 
+  };
